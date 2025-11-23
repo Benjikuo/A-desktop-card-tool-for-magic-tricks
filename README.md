@@ -82,12 +82,12 @@ pip install pillow
 |-----|--------|
 | `W`         | Spawn an **unstored** card spread with all cards |
 | `S`         | Spawn a **stored** card spread with all cards |
-| `Z`         | Spawn a stored card spread with all **spade** cards |
-| `X`         | Spawn a stored card spread with all **diamond** cards |
-| `C`         | Spawn a stored card spread with all **club** cards |
-| `V`         | Spawn a stored card spread with all **heart** cards |
-| `G`         | Spawn a stored card spread with all **red** cards |
-| `B`         | Spawn a stored card spread with all **black** cards |
+| `Z`         | Spawn a stored card spread with all **♠️ spade** cards |
+| `X`         | Spawn a stored card spread with all **♦️ diamond** cards |
+| `C`         | Spawn a stored card spread with all **♣️ club** cards |
+| `V`         | Spawn a stored card spread with all **♥️ heart** cards |
+| `G`         | Spawn a stored card spread with all **🟥 red** cards |
+| `B`         | Spawn a stored card spread with all **⬛ black** cards |
 
 *(**+Ctrl:** delete used cards, **+Shift:** face-up)*
 
@@ -164,11 +164,15 @@ Right-click and drag to move an item.
 <br>
 
 ## 💡 Tips for Magicians
-- Use the card spread to let the spectator pick a random card.
-- Keep the cards visible on screen to help magician remember the spectator’s card or your prediction.
+- Use the card spread to let the spectator **pick a random card**.
+- Keep the cards visible on screen to help magician remember the spectator’s card or your **prediction**.
 - Through the stack system, the magician can identify the spectator’s card or determine its position in the deck.
-- Using a secret card-swap method, the magician ensures the spectator always chooses the target card.
+- Using a secret card-swap method, the magician ensures the spectator always chooses the target card (**force card**).
 - Make the card in the stack face the same direction secretly using the assigned hotkey.
+
+Also, I made an **upgraded version** of the **target card setting system**.  
+Check it out here 👇🏻  
+[https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/releases/tag/v1.1.0](https://github.com/Benjikuo/A-desktop-card-tool-for-magic-tricks/releases/tag/v1.1.0)
 
 <br>
 
