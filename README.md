@@ -80,8 +80,8 @@ pip install pillow
 **Create a Card Spread:**
 | Key | Action |
 |-----|--------|
-| `W`         | Spawn an **unstored** card spread with all cards |
-| `S`         | Spawn a **stored** card spread with all cards |
+| `W` &nbsp;𖥾 | Spawn an **unstored** card spread with all cards |
+| `S` &nbsp;≣ | Spawn a **stored** card spread with all cards |
 | `Z` &nbsp;♠ | Spawn a stored card spread with all **spade** cards |
 | `X` &nbsp;♢ | Spawn a stored card spread with all **diamond** cards |
 | `C` &nbsp;♣ | Spawn a stored card spread with all **club** cards |
