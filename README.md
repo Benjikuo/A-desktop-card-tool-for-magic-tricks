@@ -82,12 +82,12 @@ pip install pillow
 |-----|--------|
 | `W`         | Spawn an **unstored** card spread with all cards |
 | `S`         | Spawn a **stored** card spread with all cards |
-| `Z`         | Spawn a stored card spread with all **♠️ spade** cards |
-| `X`         | Spawn a stored card spread with all **♦️ diamond** cards |
-| `C`         | Spawn a stored card spread with all **♣️ club** cards |
-| `V`         | Spawn a stored card spread with all **♥️ heart** cards |
-| `G`         | Spawn a stored card spread with all **🟥 red** cards |
-| `B`         | Spawn a stored card spread with all **⬛ black** cards |
+| `Z` &nbsp;♠ | Spawn a stored card spread with all **spade** cards |
+| `X` &nbsp;♢ | Spawn a stored card spread with all **diamond** cards |
+| `C` &nbsp;♣ | Spawn a stored card spread with all **club** cards |
+| `V` &nbsp;♡ | Spawn a stored card spread with all **heart** cards |
+| `G` 🚩      | Spawn a stored card spread with all **red** cards |
+| `B` 🏴      | Spawn a stored card spread with all **black** cards |
 
 *(**+Ctrl:** delete used cards, **+Shift:** face-up)*
 
