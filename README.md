@@ -1,7 +1,7 @@
 # A-desktop-card-tool-for-magic-tricks
 
-![License](https://img.shields.io/badge/license-MIT-yellow)
-![Language](https://img.shields.io/badge/language-python-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Language](https://img.shields.io/badge/Language-Python-blue)
 
 This is a program that allows a magician to select a random or specific card on a computer desktop.
 
